@@ -1,5 +1,5 @@
 {
-  "name": "Test Agent",
+  "name": "Weather Agent",
   "version": "1.0.0",
   "description": "A test agent with hardcoded configuration",
   "url": "https://rarayudu-test-agentauth.azurewebsites.net/api/agents/TestAgentKind",
