@@ -4,6 +4,5 @@
   "capabilities": {
     "streaming": true,
   },
-  "defaultInputModes": ["text"],
-  "defaultOutputModes": ["text"]
+  "defaultInputModes": ["text"]
 }
